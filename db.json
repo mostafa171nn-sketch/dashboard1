@@ -1,0 +1,71 @@
+{
+  "users": [],
+  "sales": [
+    {
+      "month": "Jan",
+      "sales": 0
+    },
+    {
+      "month": "Feb",
+      "sales": 0
+    },
+    {
+      "month": "Mar",
+      "sales": 0
+    },
+    {
+      "month": "Apr",
+      "sales": 0
+    },
+    {
+      "month": "May",
+      "sales": 0
+    },
+    {
+      "month": "Jun",
+      "sales": 0
+    },
+    {
+      "month": "Jul",
+      "sales": 0
+    },
+    {
+      "month": "Aug",
+      "sales": 0
+    },
+    {
+      "month": "Sep",
+      "sales": 0
+    },
+    {
+      "month": "Oct",
+      "sales": 0
+    },
+    {
+      "month": "Nov",
+      "sales": 0
+    },
+    {
+      "month": "Dec",
+      "sales": 0
+    }
+  ],
+  "roleStats": [
+    {
+      "role": "Admin",
+      "count": 0
+    },
+    {
+      "role": "User",
+      "count": 0
+    },
+    {
+      "role": "Editor",
+      "count": 0
+    },
+    {
+      "role": "Viewer",
+      "count": 0
+    }
+  ]
+}
